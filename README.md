@@ -1,3 +1,5 @@
+# Headless Multi-Brand Storefront – Salesforce Commerce Edition
+
 ## 🧾 Project Overview
 This project demonstrates a headless multi-brand storefront using **Salesforce B2C Commerce** and a custom frontend (React or PWA Toolkit). It features two lifestyle brands:
 - **UrbanEdge** – Streetwear fashion
